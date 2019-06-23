@@ -5,8 +5,9 @@ Using
 - AES Encryption
 - Hwid
 - Date Time
-=========================
+
 Feature (Soon)
-- Member rank
-=========================
+- Rank
+
+
 Made by NightBaron
